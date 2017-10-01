@@ -1,65 +1,79 @@
     * {
       box-sizing: border-box;
-      font-family: 'Source Sans Pro', sans-serif;
+      font-family: "Source Sans Pro", sans-serif;
     }
+
     header {
       margin-left: 20%;
       border-bottom: 5px solid gray;
       padding-bottom: 20px;
       margin-bottom: 10px;
     }
+
     nav {
       float: left;
       width: 17%;
       max-width: 20%;
     }
+
     article {
       margin-left: 20%;
     }
-    .title-text{
+
+    .title-text {
       display: inline-block;
     }
+
     .blackbox1 {
       margin: 10%;
       width: 100%;
       height: 100px;
     }
-    .color1{
+
+    .color1 {
       background-color: #02b3e4;
     }
-    .color2{
+
+    .color2 {
       background-color: #2d3c49;
     }
-    .color3{
+
+    .color3 {
       background-color: #7d97ad;
     }
+
     .blackbox2 {
       background-image: url("http://pitchfork-features-cdn.s3.amazonaws.com/peopleslist/static/images/cover-background.jpg");
       background-size: 100%;
       width: 100%;
       height: 400px;
     }
+
     .blackbox3 {
       background-color: black;
       width: 200px;
       height: 100px;
     }
-    .logo{
+
+    .logo {
       width: 50%;
       padding-right: 2%;
     }
-    .container{
+
+    .container {
       width: 100%;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
     }
-    .featured{
+
+    .featured {
       margin: 10px;
       display: inline-block;
       max-width: 300px;
     }
-    .portfolio-image{
+
+    .portfolio-image {
       width: 100%;
       height: 200px;
     }
