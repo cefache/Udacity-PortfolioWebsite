@@ -17,8 +17,8 @@
     article {
       margin-left: 20%;
     }
-    @media screen and (min-width: 500px){
-      header{background-color: green}
+    @media screen and (max-width: 1000px){
+      header{background-color: green;}
     }
     .title-text{
       display: inline-block;
