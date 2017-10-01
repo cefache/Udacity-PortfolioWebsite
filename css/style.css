@@ -34,7 +34,8 @@
       background-color: #7d97ad;
     }
     .blackbox2 {
-      background-color: black;
+      background-image: url("http://pitchfork-features-cdn.s3.amazonaws.com/peopleslist/static/images/cover-background.jpg");
+      background-size: 100%;
       width: 100%;
       height: 400px;
     }
