@@ -1,4 +1,3 @@
-<style>
     * {
       box-sizing: border-box;
       font-family: 'Source Sans Pro', sans-serif;
@@ -16,9 +15,6 @@
     }
     article {
       margin-left: 20%;
-    }
-    @media screen and (max-width: 1000px){
-      header{background-color: green;}
     }
     .title-text{
       display: inline-block;
@@ -59,4 +55,3 @@
       margin: 10px;
       display: inline-block;
     }
-  </style>
