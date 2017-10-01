@@ -1,4 +1,3 @@
-<style>
     * {
       box-sizing: border-box;
       font-family: 'Source Sans Pro', sans-serif;
@@ -11,7 +10,7 @@
     }
     nav {
       float: left;
-      width: 10%;
+      width: 17%;
       max-width: 20%;
     }
     article {
@@ -57,4 +56,3 @@
       margin: 10px;
       display: inline-block;
     }
-  </style>

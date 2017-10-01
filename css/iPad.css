@@ -1,0 +1,25 @@
+  nav{
+  	width: 10%;
+  	max-width: 12%;
+  }
+
+  nav:before{
+  	content: "Click me";
+  }
+
+  article{
+  	margin-left: 13%;
+  }
+
+  header{
+  	margin-left: 13%;
+  }
+
+  nav:hover {
+    width: 45%;
+    max-width: 50%;
+  }
+
+  nav:hover + article{
+  	margin-left: 50%;
+  }
